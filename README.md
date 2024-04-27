@@ -1,3 +1,6 @@
+NETFLY LINK, it deploys i confirmed it, hopefully we are good. If not please let me know!
+https://app.netlify.com/sites/delightful-otter-bbbcc2/deploys/662d5ca0cd933b1fa00a3d4d
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
