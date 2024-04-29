@@ -1,4 +1,6 @@
 NETFLY LINK, it deploys i confirmed it, hopefully we are good. If not please let me know!
+https://delightful-otter-bbbcc2.netlify.app/
+
 https://app.netlify.com/sites/delightful-otter-bbbcc2/deploys/662d5ca0cd933b1fa00a3d4d
 
 # Getting Started with Create React App
